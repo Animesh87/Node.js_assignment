@@ -1,4 +1,3 @@
 # Node.js_assignment
-frontend - HTML,CSS,BOOTSTRAP 
-backend - Node.js
+Frontend using HTML,CSS,BOOTSTRAP and Backend using Node.js
 
